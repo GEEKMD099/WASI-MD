@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "wasi",
-    "theme": "WASI-MD",
+    "AUTHOR": "MR_LEGEEK",
+    "theme": "GEEK-MD",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Successfully Updated!*"
         },  
         "global": {      
-            "botName": "WASI-Md",
+            "botName": "GEEK-Md",
             "body": "whatsapp User Bot", 
-            "greet2" : "Thanks To WASI",
+            "greet2" : "Thanks To GEEK",
             "pic1": "https://telegra.ph/file/a41fc42eacdc2e56fcecd.jpg", 
             "pic2": "https://telegra.ph/file/4f1a4bfff2adb63c03890.jpg", 
             "pic3": "https://telegra.ph/file/e6052e46817079cbb73f9.jpg", 
