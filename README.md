@@ -1,5 +1,5 @@
-<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
-<p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> 𝗚𝗘𝗘𝗞 𝗠𝗗 </h1> 
+<p align="center"> Introducing 𝗚𝗘𝗘𝗞-𝗠𝗗 , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 [![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
@@ -13,10 +13,10 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
+  <a aria-label="GEEK-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
     <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -27,7 +27,7 @@
 
 
 
-<p align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 uses
+<p align="center"> 𝗚𝗘𝗘𝗞 𝗠𝗗 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
