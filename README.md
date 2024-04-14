@@ -1,12 +1,12 @@
 <h1 align="center"> 𝗚𝗘𝗘𝗞 𝗠𝗗 </h1> 
 <p align="center"> Introducing 𝗚𝗘𝗘𝗞-𝗠𝗗 , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+MRLEGEEK+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+MR_LEGEEK+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
   <a href="https://github.com/GEEKMD099/GEEK-MD">
-    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
+    <img alt="venocyber docs" height="300" src="https://telegra.ph/file/b09aea9c01bb111b73507.jpg">
   </a>
 </p>
     
@@ -73,9 +73,9 @@
 
 
 
-<h3>Wasi-MD Stats</h3>
+<h3>GEEK-MD Stats</h3>
 
-![Wasi-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![GEEK-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
 
 
     
@@ -132,4 +132,4 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+WASI+MD;🙏;🙏+✍🏾;🥰)](https://github.com/wasixd)
+[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you%F0%9F%91%8B!;for+using+GEEK+MD;🙏;🙏+✍🏾;🥰)](https://github.com/GEEKMD099)
