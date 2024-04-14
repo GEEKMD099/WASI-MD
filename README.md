@@ -75,7 +75,7 @@
 
 <h3>GEEK-MD Stats</h3>
 
-![GEEK-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=wasixd&repo=WASI-MD&show_owner=true&theme=dark)
+![GEEK-MD Stats](https://github-readme-stats.vercel.app/api/pin/?username=GEEKMD099&repo=GEEK-MD&show_owner=true&theme=dark)
 
 
     
