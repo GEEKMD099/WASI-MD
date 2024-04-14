@@ -86,8 +86,8 @@ if scan qr is not working please try using pairing code i am currently working o
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ---
-1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com).***
-2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://wasi-qr.onrender.com).***
+1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com/).***
+2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://geek-qr.onrender.com).***
 ---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -97,7 +97,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 <a href="https://wasiscmer-e8256c9d4ac5.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://wasiscmer-e8256c9d4ac5.herokuapp.com/"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
 
-# <a href="https://github.com/wasixd/WASI-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+# <a href="https://github.com/GEEKMD099/GEEK-MD/fork"><img title="fork" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/wasixd/WASI-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=darkblue&style=for-the-badge&logo=msi"></a>
