@@ -89,6 +89,8 @@ if scan qr is not working please try using pairing code i am currently working o
 1. ***GET QR FROM SERVER 1 [`SESSION ID `](https://wasiwas-95abf035a922.herokuapp.com/).***
 2.  ***GET QR FROM SERVER 2 [`SESSION ID`](https://geek-qr.onrender.com).***
 ---
+3. ***GET QR FROM SERVER 3 [`SESSION ID `](https://replit.com/@Lord338/Paring-code?v=1/).***
+---
 `it is currently powerful working` `IF QR OR PAIR DOESN'T WORK THEN REPORT ME ON WHATSAPP JOIN MY SUPPORT GC`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 
