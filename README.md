@@ -1,11 +1,11 @@
 <h1 align="center"> 𝗚𝗘𝗘𝗞 𝗠𝗗 </h1> 
 <p align="center"> Introducing 𝗚𝗘𝗘𝗞-𝗠𝗗 , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![GEEK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+MRLEGEEK+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD">
+  <a href="https://github.com/GEEKMD099/GEEK-MD">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
   </a>
 </p>
@@ -13,15 +13,15 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+  <a href="https://wa.me/+237698046545?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+GEEK-md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
-  <a aria-label="GEEK-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
-    <img alt="wasitech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="GEEK-md is free to use" href="https://github.com/GEEKMD099/GEEK-MD" target="_blank">
+    <img alt="GEEKtech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="WASI-MD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{wasixd}/count.svg" alt="GEEK-MD :: Visitor's Count" /></p>
 ---
 
 
@@ -37,7 +37,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD"><b>WASI-md</b></a> Support Deploy On...
+  <a href="https://github.com/GEEKMD099/GEEK-MD"><b>GEEK-md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
