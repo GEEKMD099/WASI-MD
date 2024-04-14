@@ -113,11 +113,11 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ### I Am
 - 
-[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
+[![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/GEEKMD099)
 
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+237698046545)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/Ruben_De_Jean)
 
 [![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
 
@@ -127,7 +127,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 </h2>
    
 ## 
-- *WASI MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *GEEK MDVis not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use WASI-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD)
