@@ -1,7 +1,7 @@
 {
   "name": "Geek-md",
   "description": "Hi there, I am GEEK Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.",
-  "logo": "https://telegra.ph/file/ec9bc5038601821f2eb84.jpg",
+  "logo": "https://telegra.ph/file/840de7eb86ca6520fd06f.jpg",
   "keywords": ["whatsappbot", "wasi tech", "wasi Md bot", "wasi md", "wasi tech", "wasi Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/suhail/",
@@ -32,7 +32,7 @@
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/da95ed969f943e4d61ca8.jpg"
+      "value": "https://telegra.ph/file/840de7eb86ca6520fd06f.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "237620857930"
+      "value": "237620857930;237698046545"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -132,7 +132,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "wasi👋",
+      "value": "GEEK👋",
       "required": true 
     },
     "PACK_AUTHER": {
